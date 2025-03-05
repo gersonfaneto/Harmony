@@ -54,6 +54,7 @@
           packages = with pkgs; [
             # use the Elixr/OTP versions defined above; will also install OTP, mix, hex, rebar3
             elixir
+            elixir-ls
 
             # mix needs it for downloading dependencies
             git
