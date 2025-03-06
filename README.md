@@ -1,4 +1,4 @@
-# Hermes
+# Harmony
 
 ## Getting Started
 
@@ -14,4 +14,4 @@ Released under [MIT][license-url] by [gersonfaneto][profile-url].
 
 [profile-url]: https://github.com/gersonfaneto
 
-[license-url]: https://github.com/gersonfaneto/Hermes/blob/main/LICENSE
+[license-url]: https://github.com/gersonfaneto/Harmony/blob/main/LICENSE

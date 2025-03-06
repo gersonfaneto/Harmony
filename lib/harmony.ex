@@ -1,6 +1,6 @@
-defmodule Hermes do
+defmodule Harmony do
   @moduledoc """
-  Documentation for `Hermes`.
+  Documentation for `Harmony`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Hermes do
 
   ## Examples
 
-      iex> Hermes.hello()
+      iex> Harmony.hello()
       :world
 
   """

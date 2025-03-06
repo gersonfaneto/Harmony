@@ -1,9 +1,9 @@
-defmodule Hermes.MixProject do
+defmodule Harmony.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :hermes,
+      app: :harmony,
       version: "0.1.0",
       elixir: "~> 1.17",
       start_permanent: Mix.env() == :prod,
